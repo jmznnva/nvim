@@ -900,7 +900,7 @@ require("lazy").setup({
 		lazy = false,
 		priority = 1000,
 		opts = {
-			style = "dragon",
+			style = "wave",
 			transparent = true,
 			styles = {
 				sidebars = "transparent",
